@@ -23,8 +23,8 @@
 ```yaml
 name        : Lucas Guilherme Gonçalves
 location    : Santo André, SP — Brazil
-education   : Computer Science @ UFABC (2022 → 2029)
-              Science & Technology @ UFABC (2022 → 2027)
+education   : Computer Science @ UFABC (2024 → 2029)
+              Science & Technology @ UFABC (2024 → 2027)
 interests   : Data Analysis · Software Development · Information Security
 languages   : Portuguese (native) · English C1 · Spanish (intermediate)
 looking_for : Internship in software dev, data analysis or infosec
