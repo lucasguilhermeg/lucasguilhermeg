@@ -155,11 +155,7 @@ echo "[ ] Advanced data structures in C"
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasguilhermeg/lucasguilhermeg/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasguilhermeg/lucasguilhermeg/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/lucasguilhermeg/lucasguilhermeg/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+![Snake animation](https://raw.githubusercontent.com/lucasguilhermeg/lucasguilhermeg/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
