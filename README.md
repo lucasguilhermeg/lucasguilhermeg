@@ -117,15 +117,12 @@ echo "[→] Seeking internship in tech"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucasguilhermeg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lucasguilhermeg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasguilhermeg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasguilhermeg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="100%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=lucasguilhermeg&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=lucasguilhermeg&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="70%"/>
 
 </div>
 
