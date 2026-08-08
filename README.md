@@ -23,8 +23,8 @@
 ```yaml
 name        : Lucas Guilherme Gonçalves
 location    : Santo André, SP — Brazil
-education   : Computer Science @ UFABC (2024 → 2029)
-              Science & Technology @ UFABC (2024 → 2027)
+education   : Computer Science @ UFABC (2022 → 2029)
+              Science & Technology @ UFABC (2022 → 2027)
 interests   : Data Analysis · Software Development · Information Security
 languages   : Portuguese (native) · English C1 · Spanish (intermediate)
 looking_for : Internship in software dev, data analysis or infosec
@@ -131,31 +131,14 @@ echo "[ ] Advanced data structures in C"
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasguilhermeg&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
 ---
 
-<!-- Trophies -->
-## `$ achievements --list`
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=lucasguilhermeg&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/lucasguilhermeg)
-
-</div>
-
----
-
-<!-- Snake -->
+<!-- Activity Graph -->
 ## `$ git contributions`
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/lucasguilhermeg/lucasguilhermeg/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasguilhermeg&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
