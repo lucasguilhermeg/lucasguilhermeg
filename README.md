@@ -155,7 +155,7 @@ echo "[ ] Advanced data structures in C"
 
 <div align="center">
 
-![Snake animation](https://lucasguilhermeg.github.io/lucasguilhermeg/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/lucasguilhermeg/lucasguilhermeg/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
