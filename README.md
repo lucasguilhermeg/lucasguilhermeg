@@ -108,8 +108,6 @@ echo "[✓] Building academic portfolio on GitHub"
 echo "[→] Learning SQL fundamentals"
 echo "[→] Developing automation project with n8n + AI"
 echo "[→] Seeking internship in tech"
-echo "[ ] Image Processing & Computer Vision (next semester)"
-echo "[ ] Advanced data structures in C"
 ```
 
 ---
