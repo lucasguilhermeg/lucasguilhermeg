@@ -74,7 +74,7 @@ ATMs, and mobile banking. Mobile went from 0.1% to 76.8% of transaction volume.
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=58a6ff)
 
-[![Repo](https://img.shields.io/badge/→%20View%20Repository-58a6ff?style=flat-square)](https://github.com/lucasguilhermeg/REPO-NAME)
+[![Repo](https://img.shields.io/badge/→%20View%20Repository-58a6ff?style=flat-square)](https://github.com/lucasguilhermeg/banking-channel-migration-brazil)
 
 </td>
 <td width="50%" valign="top">
@@ -86,21 +86,22 @@ scheduled dispensing with sensor-confirmed delivery.
 ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=58a6ff)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=58a6ff)
 
-[![Repo](https://img.shields.io/badge/→%20View%20Repository-58a6ff?style=flat-square)](https://github.com/lucasguilhermeg/REPO-NAME)
+[![Repo](https://img.shields.io/badge/→%20View%20Repository-58a6ff?style=flat-square)](https://github.com/lucasguilhermeg/smart-medication-dispenser)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 LLM Response Optimization
-Co-authored research applying a Biased Random-Key Genetic Algorithm to optimize
-LLM outputs — 70% win rate over Best-of-5 at 60% fewer inference calls.
+### 📄 LLM Response Optimization
+Co-authored paper applying a Biased Random-Key Genetic Algorithm to optimize LLM
+outputs — 70% win rate over Best-of-5 at 60% fewer inference calls. Published in
+the Proceedings of the UNIGOU Remote Program 2026.
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
-![Research](https://img.shields.io/badge/Published-58a6ff?style=flat-square)
+![Research](https://img.shields.io/badge/Peer%20Reviewed-58a6ff?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Research%20Design%20%26%20Writing-8b949e?style=flat-square)
 
-[![Repo](https://img.shields.io/badge/→%20View%20Repository-58a6ff?style=flat-square)](https://github.com/lucasguilhermeg/REPO-NAME)
+[![Paper](https://img.shields.io/badge/→%20Read%20the%20Paper-58a6ff?style=flat-square)](PAPER-URL)
 
 </td>
 <td width="50%" valign="top">
