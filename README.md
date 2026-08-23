@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Banner Principal -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Lucas%20Guilherme&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20UFABC&descColor=8b949e&descSize=18&descAlignY=58&animation=fadeIn"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Data+Analysis+%7C+Python+%7C+Linux;Building+my+portfolio%2C+one+commit+at+a+time;Computer+Science+%40+UFABC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Data+Analysis+%7C+Python+%7C+IoT;Turning+public+datasets+into+answers;Computer+Science+%40+UFABC)](https://git.io/typing-svg)
 
 <br>
 
-<!-- Badges de status -->
 ![Profile Views](https://komarev.com/ghpvc/?username=lucasguilhermeg&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
 ![Focus](https://img.shields.io/badge/Focus-Data%20Analysis%20%26%20Software%20Dev-58a6ff?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Looking%20for%20Internship-4CAF50?style=flat-square)
@@ -17,7 +14,6 @@
 
 ---
 
-<!-- Sobre Mim -->
 ## `$ whoami`
 
 ```yaml
@@ -25,45 +21,44 @@ name        : Lucas Guilherme Gonçalves
 location    : Santo André, SP — Brazil
 education   : Computer Science @ UFABC (2024 → 2029)
               Science & Technology @ UFABC (2024 → 2027)
-interests   : Data Analysis · Software Development · Information Security
+interests   : Data Analysis · Software Development · IoT
 languages   : Portuguese (native) · English C1 · Spanish (intermediate)
-looking_for : Internship in software dev, data analysis or infosec
+looking_for : Internship in data analysis or IT infrastructure
 ```
 
 ---
 
-<!-- Tech Stack -->
 ## `$ cat tech_stack.json`
 
 <div align="center">
 
-**Languages**
+**Proficient**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=58a6ff)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58a6ff)
-
-**Data & Visualization**
-
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=58a6ff)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=58a6ff)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58a6ff)
 
-**Tools & Environment**
+**Project exposure**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=8b949e)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=8b949e)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=8b949e)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=8b949e)
+![MQTT](https://img.shields.io/badge/MQTT-0d1117?style=for-the-badge&logo=mqtt&logoColor=8b949e)
+
+**Tools**
 
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=58a6ff)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58a6ff)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)
 ![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=58a6ff)
-![Notion](https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=58a6ff)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-0d1117?style=for-the-badge&logo=platformio&logoColor=58a6ff)
 
 </div>
 
 ---
 
-<!-- Projetos -->
 ## `$ ls projects/`
 
 <div align="center">
@@ -72,20 +67,47 @@ looking_for : Internship in software dev, data analysis or infosec
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Python Portfolio
-Notebooks desenvolvidos ao longo da graduação em Ciência da Computação — fundamentos, análise de dados, estatística, visualização e projetos com dados reais.
+### 📊 Banking Channel Migration
+Twelve years of Central Bank data on how Brazilians shifted between branches,
+ATMs, and mobile banking. Mobile went from 0.1% to 76.8% of transaction volume.
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=58a6ff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
 
-[![Repo](https://img.shields.io/badge/→%20View%20Repository-58a6ff?style=flat-square)](https://github.com/lucasguilhermeg/portfolio-python)
+[![Repo](https://img.shields.io/badge/→%20View%20Repository-58a6ff?style=flat-square)](https://github.com/lucasguilhermeg/REPO-NAME)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔜 More coming soon
-Novos projetos serão adicionados conforme o avanço na graduação — incluindo processamento de imagens, automação e segurança da informação.
+### 💊 Smart Medication Dispenser
+End-to-end IoT system: ESP32 firmware, Node.js backend, and a web interface —
+scheduled dispensing with sensor-confirmed delivery.
+
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=58a6ff)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=58a6ff)
+
+[![Repo](https://img.shields.io/badge/→%20View%20Repository-58a6ff?style=flat-square)](https://github.com/lucasguilhermeg/REPO-NAME)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 LLM Response Optimization
+Co-authored research applying a Biased Random-Key Genetic Algorithm to optimize
+LLM outputs — 70% win rate over Best-of-5 at 60% fewer inference calls.
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+![Research](https://img.shields.io/badge/Published-58a6ff?style=flat-square)
+
+[![Repo](https://img.shields.io/badge/→%20View%20Repository-58a6ff?style=flat-square)](https://github.com/lucasguilhermeg/REPO-NAME)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔜 More coming
+New projects as the degree progresses — currently exploring SQL and data
+pipeline tooling.
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
 
@@ -97,22 +119,20 @@ Novos projetos serão adicionados conforme o avanço na graduação — incluind
 
 ---
 
-<!-- Objetivos -->
 ## `$ cat current_goals.sh`
 
 ```bash
 #!/bin/bash
 
 echo "[✓] Consolidating Python for data analysis"
-echo "[✓] Building academic portfolio on GitHub"
+echo "[✓] Publishing first research paper"
+echo "[✓] Shipping an end-to-end IoT system"
 echo "[→] Learning SQL fundamentals"
-echo "[→] Developing automation project with n8n + AI"
-echo "[→] Seeking internship in tech"
+echo "[→] Seeking internship in data or infrastructure"
 ```
 
 ---
 
-<!-- GitHub Stats -->
 ## `$ git log --stat`
 
 <div align="center">
@@ -128,7 +148,6 @@ echo "[→] Seeking internship in tech"
 
 ---
 
-<!-- Activity Graph -->
 ## `$ git contributions`
 
 <div align="center">
@@ -139,7 +158,6 @@ echo "[→] Seeking internship in tech"
 
 ---
 
-<!-- Redes Sociais -->
 ## `$ connect --social`
 
 <div align="center">
@@ -152,7 +170,6 @@ echo "[→] Seeking internship in tech"
 
 ---
 
-<!-- Rodapé -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=100&section=footer"/>
