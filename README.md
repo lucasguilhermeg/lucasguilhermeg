@@ -107,8 +107,7 @@ the Proceedings of the UNIGOU Remote Program 2026.
 <td width="50%" valign="top">
 
 ### 🔜 More coming
-New projects as the degree progresses — currently exploring SQL and data
-pipeline tooling.
+New projects as the degree progresses.
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
 
