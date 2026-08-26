@@ -101,7 +101,7 @@ the Proceedings of the UNIGOU Remote Program 2026.
 ![Research](https://img.shields.io/badge/Peer%20Reviewed-58a6ff?style=flat-square)
 ![Role](https://img.shields.io/badge/Role-Research%20Design%20%26%20Writing-8b949e?style=flat-square)
 
-[![Paper](https://img.shields.io/badge/→%20Read%20the%20Paper-58a6ff?style=flat-square)]([PAPER-URL](https://www.incbac.org/unigou-proceedings/?article_id=816#extract-816))
+[![Paper](https://img.shields.io/badge/→%20Read%20the%20Paper-58a6ff?style=flat-square)](https://www.incbac.org/unigou-proceedings/?article_id=816#extract-816)
 
 </td>
 <td width="50%" valign="top">
